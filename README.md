@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on **New ISS-Egypt Gateway**
 
-- 🌱 I’m currently learning **ReactJs and NodeJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 📫 Reach me **mohamed2003torky@gmail.com**
 
